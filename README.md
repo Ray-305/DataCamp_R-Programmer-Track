@@ -1,4 +1,4 @@
-# My-Data-Camp-Courses
+# R Programmer Track
 
 This repository consists of the the 'R Programming Track' courses which I have completed. 
 
